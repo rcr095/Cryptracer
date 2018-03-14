@@ -89,6 +89,7 @@ public class Bitcoin_Chart_Minute extends AppCompatActivity {
             cds.setValueTextColor(Color.BLACK);
             CandleData cd = new CandleData(cds);
             candleStickChart.setData(cd);
+            candleStickChart.animateX(3000);
             candleStickChart.invalidate();
 
         } catch (Exception e){

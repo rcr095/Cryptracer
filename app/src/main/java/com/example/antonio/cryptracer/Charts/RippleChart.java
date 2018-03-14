@@ -99,7 +99,6 @@ public class RippleChart extends AppCompatActivity {
 
             candleStickChart.getDescription().setText("Ripple");
             candleStickChart.animateX(3000);
-            //candleStickChart.animateY(3000);
             candleStickChart.setData(data2);
 
             candleStickChart.invalidate();

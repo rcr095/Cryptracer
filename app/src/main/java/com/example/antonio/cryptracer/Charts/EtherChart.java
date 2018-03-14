@@ -99,7 +99,6 @@ public class EtherChart extends AppCompatActivity {
 
             candleStickChart.getDescription().setText("Ether");
             candleStickChart.animateX(3000);
-            //candleStickChart.animateY(3000);
             candleStickChart.setData(data2);
 
             candleStickChart.invalidate();

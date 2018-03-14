@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Cryptracer.iml" filepath="$PROJECT_DIR$/.idea/Cryptracer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cryptracer.iml" filepath="$PROJECT_DIR$/Cryptracer.iml" />
+      <module fileurl="file://C:\Users\Ricardo\StudioProjects\Cryptracer\.idea\Cryptracer.iml" filepath="C:\Users\Ricardo\StudioProjects\Cryptracer\.idea\Cryptracer.iml" />
       <module fileurl="file://C:\Users\Emanuel\Desktop\Cryptracer\Cryptracer.iml" filepath="C:\Users\Emanuel\Desktop\Cryptracer\Cryptracer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\Emanuel\Desktop\Cryptracer\app\app.iml" filepath="C:\Users\Emanuel\Desktop\Cryptracer\app\app.iml" />
